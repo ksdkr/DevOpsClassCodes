@@ -1,7 +1,7 @@
 Addressbook Tutorial
 Updated the file to demo github poll scm.
 updated new line
-git pollscm testing
+git pollscm testing in jenkins
 
 updated the new line to check if github webhook is able to send the events.
 ====================
